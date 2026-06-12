@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "ThegoldSMP_ahmed.aternos.me:55754",
+    "port": 55754,
     "version": "",
     "try-creative": false
   },
